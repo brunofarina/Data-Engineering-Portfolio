@@ -1,2 +1,18 @@
-# MY Data Engineering Portfolio
-This repository is all about of what I'm learning from the internet (courses, tutorials and blog posts) about the Data Engineering (in the future it will be about MLOps field, which is about Machine Learning, DevOps and Data Engineering, all combined).
+# My Data Engineering Portfolio
+
+This repository is all about what I'm learning from the internet (courses, tutorials, and blog posts) about Data Engineering (in the future it will be about the **MLOps** field, which takes Machine Learning, DevOps, and Data Engineering, all combined).
+
+But why **Data Engineering**? Because loving **DevOps** culture and **Machine Learning** field is not enough for me, a simple Software Engineer, and I do like almost everything related to **Data**.
+
+
+# Important note
+In this portfolio/side project/study repository I mainly will use [**Google Colab**](https://colab.research.google.com/) which covers everything that you probably will have to deal with to run into your local environment, like: 
+
+ - install Python;
+ - install PIP package manager;
+ - install all the dependencies that are needed to run properly in your local machine;
+ - maybe install [**Anaconda**](https://www.anaconda.com/) (which it comes with several and useful tools for **Data Science**, **Data Analysis**, **Machine Learning**, etc);
+ - deal with some ~~annoying~~ setups;
+ - other things that I miss to put in here;
+ 
+So, you have two choices: or you just have to import those `.ipynb` from **Jupyter Notebooks** into your local environment, or use **Google Colab** and import these files and run it in the "***Cloud**"*.

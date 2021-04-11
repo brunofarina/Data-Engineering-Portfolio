@@ -16,3 +16,14 @@ In this portfolio/side project/study repository I mainly will use [**Google Cola
  - other things that I miss to put in here;
  
 So, you have two choices: or you just have to import those `.ipynb` from **Jupyter Notebooks** into your local environment, or use **Google Colab** and import these files and run it in the "***Cloud**"*.
+
+# Resources
+
+## Books
+- [Data Engineering with Python](https://www.packtpub.com/product/data-engineering-with-python/9781839214189)
+
+## Courses
+- [AWS courses related to Data Engineering](https://aws.amazon.com/blogs/training-and-certification/tag/data-engineer/)
+
+## Roadmap
+- https://github.com/brunofarina/data-engineer-roadmap
